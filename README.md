@@ -34,7 +34,7 @@ Medical image registration is a critical task in computational health, enabling 
 2. Or download `'avg152T1_LR_nifti.nii.gz'` from `'https://nifti.nimh.nih.gov/nifti-1/data/'`
 3. Run the script:
    ```bash
-   python simulated_annealing_registration.py
+   python image-registration-SA.py
    ```
 4. The script outputs:
    - The true and optimized transformation parameters.
