@@ -47,6 +47,9 @@ Medical image registration is a critical task in computational health, enabling 
 - **Optimized Parameters**: `{angle: ~-15°, scale: ~-0.9, tx: ~0.3, ty: ~19}`
 - **Best NMI Score**: `1.1673`
 
+Example MRI Images before and after registration:
+![image](https://github.com/user-attachments/assets/d19fa150-04a1-4865-8f46-29a52c66add7)
+
 ---
 ### Dependencies
 - Python 3.7+
